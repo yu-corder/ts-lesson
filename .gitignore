@@ -1,0 +1,4 @@
+#これはgitignoreです。
+#gitから管理を外すファイルを設定するファイルです。
+
+/node_modules
